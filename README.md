@@ -104,10 +104,5 @@ Avant de démarrer le projet, assurez-vous que les éléments suivants sont inst
 
 ---
 
-## Captures d'écran (Optionnel) :
-Ajoutez ici des captures d'écran de l'application pour illustrer les fonctionnalités (exemple : tableau de bord, gestion des commandes, etc.).
-
----
-
 ## Auteur :
 Développé par [Djennhya](https://github.com/Djennhya).  
