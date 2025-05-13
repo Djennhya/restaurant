@@ -71,9 +71,9 @@ Avant de démarrer le projet, assurez-vous que les éléments suivants sont inst
      DB_CONNECTION=mysql
      DB_HOST=127.0.0.1
      DB_PORT=3306
-     DB_DATABASE=nom_de_votre_base
-     DB_USERNAME=votre_utilisateur
-     DB_PASSWORD=votre_mot_de_passe
+     DB_DATABASE=online_rest
+     DB_USERNAME=localhost
+     DB_PASSWORD=
      ```
 
 5. **Générer la clé de l'application :**
