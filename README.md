@@ -1,7 +1,3 @@
-Voici une version plus détaillée de la description pour votre fichier `README.md` :
-
----
-
 # Application de gestion de restaurants
 
 **Description :**  
